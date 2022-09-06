@@ -1,4 +1,5 @@
 # 개인 포트폴리오 사이트
+<img src="/readmefile/Screenshot 2022-09-06 at 12.21.28.JPG" />
 개인 포트폴리오를 문서화하고 싶은데, 작업물 정리도 제대로 안되어있는 상태여서<br/>
 심플한 원 페이지 스타일 부트스트랩 테마 하나를 골라 특색있게 살려 작업하였다.
 
@@ -11,7 +12,18 @@
 6. 추후 포트폴리오 카테고리의 부족한 핵심코드나 작업스케치, 데모 등을 보충해줄 것이다.
 
 # 컨셉
+<img src="/readmefile/Screenshot 2022-09-06 at 12.22.09.JPG" />
 - 깔끔한 블랙&화이트 베이스에 사주 상 나무가 부족한 나를 위한 채도가 높은 사이안그린을 포인트컬러로 활용,
 - 가지고있는 프로필 사진 중 신뢰가 갈만한 첫인상을 주는 클로즈업 샷과 자신감있고 당당해보이는 바디프로필을 크롭하여 사용하였다.
 - 포트폴리오로서의 컨셉은 다양한 분야의 작업물을 빠르게 배우고 진행한 것을 잘 정리해둔 사람이라는 점을 어필하고싶었다.
 - 무슨 업무든, 어느 분야의 개발이든 빠르게 공부하고 최대의 효과를 낼 수 있는 인재상을 표현하고자 했다.
+
+# 스크린샷
+- Resume
+<img src="/readmefile/Screenshot 2022-09-06 at 12.22.40.JPG" />
+- Portfolio
+<img src="/readmefile/Screenshot 2022-09-06 at 12.22.57.JPG" />
+<img src="/readmefile/Screenshot 2022-09-06 at 12.23.45.JPG" />
+<img src="/readmefile/Screenshot 2022-09-06 at 12.24.06.JPG" />
+- Ending Credit
+<img src="/readmefile/Screenshot 2022-09-06 at 12.24.27.JPG" />
